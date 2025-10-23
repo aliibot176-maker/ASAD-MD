@@ -1,11 +1,11 @@
 /*════════════════════════════════════════════════════════════════════════════
                                                                             
-   ⚡️ 𝗠𝗔𝗡𝗨-𝗠𝗗 𝐁𝐎𝐓 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
+   ⚡️ ASAD-𝗠𝗗 𝐁𝐎𝐓 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
                                                                             
      🤖 Multi-functional WhatsApp User Bot by Manul Official               
      🔗 GitHub   : https://github.com/manulofficial7                        
      ▶️ YouTube  : https://youtube.com/@ManulOfficialTech                   
-     📱 WhatsApp : +94 74 227 4855                                            
+     📱 WhatsApp : +923226761726                                            
                                                                             
    ╭────────────────────────────────────────────────────────────────────╮
 //███╗░░░███╗░█████╗░███╗░░██╗██╗░░░██╗
@@ -26,10 +26,10 @@
 ════════════════════════════════════════════════════════════════════════════
 */
 /**
- * 🧠 Author        : Manul Official
- * 🌐 Project Name  : MANU-MD
+ * 🧠 Author        : ASAD Official
+ * 🌐 Project Name  : ASAD-MD
  * 🛠 Base Script   : By Manul Official
- * 📝 Description   : MANU-MD is a powerful and customizable WhatsApp bot 
+ * 📝 Description   : ASAD-MD is a powerful and customizable WhatsApp bot 
  *                    built for fun, automation, and productivity!
  * 🔒 License       : © 2025 MANU-MD v8.0 - All Rights Reserved
  */
